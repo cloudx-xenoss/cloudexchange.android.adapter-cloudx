@@ -10,7 +10,7 @@
 Add this Maven repository in your project’s `settings.gradle` or `settings.gradle.kts` file **inside** the `dependencyResolutionManagement.repositories` block:
 ```
 maven {
-    url = uri("https://maven.pkg.github.com/cloudx-xenoss/cloudxchange.android.adapter-cloudx")
+    url = uri("https://maven.pkg.github.com/cloudx-xenoss/cloudexchange.android.adapter-cloudx")
     credentials {
         username = "<GITHUB_USERNAME>"
         password = "<GITHUB_TOKEN>"
